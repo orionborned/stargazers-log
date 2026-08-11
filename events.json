@@ -1,0 +1,23 @@
+[
+  {
+    "name": "codeql",
+    "owner": "github",
+    "description": "GitHub's code analysis engine for finding security vulnerabilities.",
+    "starred_at": "2026-07-22T14:20:00Z",
+    "url": "https://github.com/github/codeql"
+  },
+  {
+    "name": "svelte",
+    "owner": "sveltejs",
+    "description": "Cybernetically enhanced web apps.",
+    "starred_at": "2026-06-08T09:45:00Z",
+    "url": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "name": "vscode",
+    "owner": "microsoft",
+    "description": "Visual Studio Code - Open Source Code Editor.",
+    "starred_at": "2026-05-17T18:30:00Z",
+    "url": "https://github.com/microsoft/vscode"
+  }
+]
